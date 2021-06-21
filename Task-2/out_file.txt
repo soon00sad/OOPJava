@@ -1,0 +1,5 @@
+desc
+1 = readfile workflow.txt
+2 = writefile out_file.txt
+csed
+1 -> 2
